@@ -15,4 +15,3 @@ een geschiedenis bijhouden en wisselkoersen bekijken, allemaal in één programm
 - Automatische caching van API-data (10 minuten)
 - Terminal-kleuren en nette opmaak
 - Ondersteuning voor meer dan 150 valuta’s via `pycountry`
-# euro_dollar_converter
