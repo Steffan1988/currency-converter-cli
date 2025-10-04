@@ -1,7 +1,7 @@
 ## Currency Converter CLI
 
 **Currency Converter CLI** is een interactieve command-line applicatie geschreven in Python.
-Met deze tool kun je valuta omrekenen, wisselkoersen ophalen via een API, en je conversiegeschiedenis bekijken — allemaal rechtstreeks vanuit de terminal met kleurrijke uitvoer.
+Met deze tool kun je valuta omrekenen, wisselkoersen ophalen via een API, en je conversiegeschiedenis bekijken, allemaal rechtstreeks vanuit de terminal met kleurrijke uitvoer.
 
 ### Functies
 
